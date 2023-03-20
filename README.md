@@ -1,6 +1,6 @@
 ## First things first:
 
-1. Fork and clone [this repository](https://github.com/JoinCODED/TASK-React-MobX-Chatting-Website) to your `development folder`
+1. Fork and clone [this repository](https://github.com/JoinCODED/TASK-React-Query-3-Chat) to your `development folder`
 2. `npm install`
 3. `npm start`
 
